@@ -1,6 +1,6 @@
 # Parse Tree Explorer
 
-Eclipse IDE for RCP and RAP Developers
+Eclipse IDE for RCP and RAP Developers  
 Version: 2020-03 (4.15.0)
 
 ## What is it?
