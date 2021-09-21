@@ -1,6 +1,7 @@
 # Parse Tree Explorer
 
-Eclipse IDE 2020-03 R Package
+Eclipse IDE for RCP and RAP Developers
+Version: 2020-03 (4.15.0)
 
 ## What is it?
 Web application that lets users explore syntax/grammars and see the visualized parse tree.
